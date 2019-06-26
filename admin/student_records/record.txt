@@ -1,0 +1,13 @@
+
+<?php 
+	//show files and download the file
+	// $dir = "../test_files/";
+	// if(is_dir($dir)){
+	// 	if($dh = opendir($dir)){
+	// 		while (($file = readdir($dh))!== false) {
+	// 			echo '<a href="'.$dir.$file.'" download>'.$file.'</a><br>';
+	// 		}
+	// 		closedir($dh);
+	// 	}
+	// }
+?>
